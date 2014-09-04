@@ -1,2 +1,0 @@
-#define script26
-
